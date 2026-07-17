@@ -1,0 +1,12 @@
+experiment_name: bert
+model_name: bert-base-uncased
+learning_rate: 2.0e-5
+dropout: 0.35
+batch_size: 8
+max_length: 120
+epochs: 5
+warmup_ratio: 0.1
+weight_decay: 0.01
+validation_size: 0.1
+seed: 123
+hidden_size: 256
