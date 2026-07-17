@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper."
+title: "Comparative Analysis of Transformer-Based Pre-Trained NLP Models"
+type: software
+authors:
+  - family-names: Singla
+    given-names: Saurav
+repository-code: "https://github.com/sauravsingla/Transformer-Based-Pre-Trained-NLP-Models"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-17
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Singla
+      given-names: Saurav
+    - family-names: Ramachandra
+      given-names: N.
+  title: "Comparative Analysis of Transformer Based Pre-Trained NLP Models"
+  journal: "International Journal of Computer Sciences and Engineering"
+  volume: 8
+  issue: 11
+  pages: "40-44"
+  year: 2020
+  doi: "10.26438/ijcse/v8i11.4044"
