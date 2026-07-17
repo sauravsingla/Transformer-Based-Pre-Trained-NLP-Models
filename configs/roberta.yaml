@@ -1,0 +1,12 @@
+experiment_name: roberta
+model_name: roberta-base
+learning_rate: 2.0e-5
+dropout: 0.32
+batch_size: 32
+max_length: 120
+epochs: 5
+warmup_ratio: 0.1
+weight_decay: 0.01
+validation_size: 0.1
+seed: 123
+hidden_size: 256
